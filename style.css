@@ -1,6 +1,7 @@
 body {
-  background-color: red;
+  background-color: green;
   color: white;
   width: 200px; height: 200px;
   font-size: 24px;
+  overflow: hidden;
 }
